@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Landing manager system
 #### author [Dmitry Dmitrievich Pechurkin] (http://dpechurkin.ru/) 
 
@@ -26,3 +27,6 @@
 11. можно отредактировать блок 
 1. главная страница 
 11. выводит блоки созданых из панели управления 
+=======
+Landing manager system
+>>>>>>> 8fcd4934ea2740616c0ac634a389f52d2a6fb0ed
